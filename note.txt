@@ -1,0 +1,3 @@
+1. itextpdf-5.5.13.jar adalah jar agar bisa mencetak hasil
+pilih add jar/folder - masukan jar nya ke liblary
+2. penjualan.sql adalah database nya
